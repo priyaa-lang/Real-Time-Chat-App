@@ -16,4 +16,27 @@ This is a **frontend-only project** — focused on design, layout, and interacti
 ## 🛠️ Tech Stack
 - **HTML5** → Structure  
 - **CSS3** → Styling, responsiveness, modern design elements  
-- **JavaScript (Vanilla JS)** → Interactivity and UI functionality  
+- **JavaScript ** → Interactivity and UI functionality
+
+- 
+---
+
+## 📁 Repo 2: **To-do-list**
+
+**to-do-list/README.md**
+
+# Modern To-Do List (Frontend Only)
+
+A simple, modern **To-Do List app** built with **HTML, CSS, and JavaScript**.  
+Tasks are saved in the browser using **localStorage**, so they persist even after refresh.
+
+## ✨ Features
+- Add, edit, and delete tasks
+- Mark tasks as completed ✅
+- Filter tasks (all / active / completed)
+- LocalStorage persistence
+- Responsive design (mobile-friendly)
+- Clean UI with CSS transitions
+
+##📂 Project Structure
+
